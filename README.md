@@ -3,8 +3,8 @@
 ## Description
 This repository contains the necessary files and instructions to set up and control a robot arm using ROS Noetic and an Arduino. The project demonstrates two primary methods of controlling the robot arm:
 
-1* Joint State Publisher: Basic control by publishing joint states.
-2* MoveIt and Kinematics: Advanced control using MoveIt for motion planning and kinematics.
+1. Joint State Publisher: Basic control by publishing joint states.
+2. MoveIt and Kinematics: Advanced control using MoveIt for motion planning and kinematics.
 
 # Task3: Controlling the robot arm by joint_state_publisher 
 
