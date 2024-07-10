@@ -6,7 +6,7 @@ This repository contains the necessary files and instructions to set up and cont
 1- Joint State Publisher: Basic control by publishing joint states.
 2- MoveIt and Kinematics: Advanced control using MoveIt for motion planning and kinematics.
 
-# Task4: Controlling the robot arm by joint_state_publisher 
+# Task3: Controlling the robot arm by joint_state_publisher 
 
 1. **Set Up ROS Environment:**
    * Ensure you have ROS Noetic installed.
@@ -79,7 +79,7 @@ This repository contains the necessary files and instructions to set up and cont
 
 ---
 
-# Task5: Controlling the robot arm by Moveit and kinematics
+# Task4: Controlling the robot arm by Moveit and kinematics
 
 1. **Prerequisites:**
    * Ensure MoveIt is installed:
@@ -100,7 +100,7 @@ This repository contains the necessary files and instructions to set up and cont
      catkin_make
      ```
 
-  3. **Running the MoveIt Package:**
+3. **Running the MoveIt Package:**
    * Launch the MoveIt demo:
      ```bash
      roslaunch moveit_pkg demo.launch
